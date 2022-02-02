@@ -1,0 +1,1 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2022/02/03 - 00:15:33.195	[31merror[0m	D:/Projects/Go/src/start-model/initialize/gorm.go:32	register table failed	{"error": "Error 1067: Invalid default value for 'nick_name'"}

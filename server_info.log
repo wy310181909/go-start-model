@@ -1,0 +1,15 @@
+2022/02/02 - 23:55:32.277	info	D:/Projects/Go/src/start-model/initialize/router.go:27	use middleware logger
+2022/02/02 - 23:55:32.279	info	D:/Projects/Go/src/start-model/initialize/router.go:31	use middleware cors
+2022/02/02 - 23:55:32.279	info	D:/Projects/Go/src/start-model/initialize/router.go:33	register swagger handler
+2022/02/02 - 23:55:32.279	info	D:/Projects/Go/src/start-model/initialize/router.go:43	router register success
+2022/02/02 - 23:55:32.295	info	D:/Projects/Go/src/start-model/core/server.go:32	server run success on 	{"address": ":0"}
+2022/02/03 - 00:03:11.850	info	D:/Projects/Go/src/start-model/initialize/router.go:27	use middleware logger
+2022/02/03 - 00:03:11.852	info	D:/Projects/Go/src/start-model/initialize/router.go:31	use middleware cors
+2022/02/03 - 00:03:11.853	info	D:/Projects/Go/src/start-model/initialize/router.go:33	register swagger handler
+2022/02/03 - 00:03:11.853	info	D:/Projects/Go/src/start-model/initialize/router.go:43	router register success
+2022/02/03 - 00:03:11.862	info	D:/Projects/Go/src/start-model/core/server.go:32	server run success on 	{"address": ":0"}
+2022/02/03 - 00:04:41.979	info	D:/Projects/Go/src/start-model/initialize/router.go:27	use middleware logger
+2022/02/03 - 00:04:41.980	info	D:/Projects/Go/src/start-model/initialize/router.go:31	use middleware cors
+2022/02/03 - 00:04:41.981	info	D:/Projects/Go/src/start-model/initialize/router.go:33	register swagger handler
+2022/02/03 - 00:04:41.981	info	D:/Projects/Go/src/start-model/initialize/router.go:43	router register success
+2022/02/03 - 00:04:41.981	info	D:/Projects/Go/src/start-model/core/server.go:32	server run success on 	{"address": ":0"}
